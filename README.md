@@ -11,7 +11,7 @@ Right after I got a certain experience, I had started to get interested in web d
 ### Nowadays
 Currently, I am very focused on studying frameworks that should help me build better web applications than I build nowadays. Such technologies as ReactJS, NodeJS, and similars.
 
-*Passion is the fuel to the effort!*
+*Passion is the fuel to the effort! - Me*
 
 - 🔭 I’m currently studying at Universidade Federal Rural de Pernambuco
 - 🌱 I’m currently learning C language and Web Development Tools
