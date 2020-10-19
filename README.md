@@ -1,4 +1,4 @@
-# Hey! my name is Gabriel Noronha
+# Hey! My name is Gabriel Noronha
 
 ## About me
 
