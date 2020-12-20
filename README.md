@@ -19,3 +19,5 @@ Currently, I am very focused on studying frameworks that should help me build be
 - 🤔 I’m looking for help with Meet new peoples
 - 📫 How to reach me: inc.691@gmail.com
 - 😄 Pronouns: Noronha
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noronha1612)](https://github.com/anuraghazra/github-readme-stats)
