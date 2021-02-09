@@ -1,5 +1,7 @@
 # Hey! My name is Gabriel Noronha
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-noronha-a458391b9/)](https://www.linkedin.com/in/gabriel-noronha-a458391b9/)
+
 ## About me
 
 ### The beginning
