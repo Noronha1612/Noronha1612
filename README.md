@@ -15,10 +15,10 @@ Currently, I am very focused on studying frameworks that should help me build be
 
 *Passion is the fuel to the effort! - Me*
 
-- 🔭 I’m currently studying at Universidade Federal Rural de Pernambuco
-- 🌱 I’m currently learning C language and Web Development Tools
-- 👯 I’m looking to collaborate on Programming Community in general
-- 🤔 I’m looking for help with Meet new peoples
+- 🔭 I’m currently studying at Universidade Federal Rural de Pernambuco!
+- 🌱 I’m currently going deeper in front-end development using ReactJS, React Native and similars!
+- 👯 I’m looking to collaborate on Programming Community in general!
+- 🤔 I’m looking for help with Meet new peoples!
 - 📫 How to reach me: inc.691@gmail.com
 - 😄 Pronouns: Noronha
 
